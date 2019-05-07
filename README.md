@@ -14,5 +14,5 @@ the project is open source and far from finished. I will be updating it over tim
 - Photo & Images
 - API reference
 - Privacy Settings
-- Python 
+- Python Modeling
 - Algorithms
